@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white"></a>&nbsp 
   <img alt="Static Badge" src="https://img.shields.io/badge/shell--script-%23FFD500?style=flat-square&logoColor=white"></a>&nbsp 
   <br><br>
   <img src="https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
