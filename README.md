@@ -9,6 +9,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring--Boot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white"></a>&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring--Batch-%236DB33F?style=flat-square&logo=spring&logoColor=white"></a>&nbsp
   <br><br>
   <img src="https://img.shields.io/badge/Mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=oracle&logoColor=white"></a>&nbsp
