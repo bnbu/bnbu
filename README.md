@@ -25,7 +25,8 @@
 </p>
 <hr>
 <h3 align="center">⚡ PS </h3>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh031613" />
+</p>
+<hr>
 
-  [![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh031613)](https://solved.ac/jsh031613)
-  
