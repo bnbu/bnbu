@@ -21,6 +21,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Redhat-%23EE0000?style=flat-square&logo=redhat&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Arch--Linux-%231793d1?style=flat-square&logo=ArchLinux&logoColor=white"></a>&nbsp
   <br><br>
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/K8s-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>&nbsp
