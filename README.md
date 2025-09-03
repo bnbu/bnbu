@@ -39,17 +39,21 @@
     2023.03 ~ 2023.09 | 한국 소프트웨어 산업 협회 / 클라우드 기반 ERP 전문가 과정
   </p>
   <p>
-    2023.12 ~ xxxx.xx | KL 차세대 ERP 구축 / 인프라 / 어플리케이션 아키텍쳐 및 DevOps<br>
-    - 개발 아키텍쳐 구성 및 개발 환경 관리<br>
-    - SMS 공통 API 및 Spring Batch 기반 우편번호 일변동 반영 배치 개발<br>
-    - gitlab-runner 및 Jenkins 기반 CI/CD 파이프라인 구축<br>
-    - ITSM 연동 CI/CD 관리 API 개발<br>
-    - 미들웨어 관제 및 튜닝 (JVM 옵션 및 커넥션풀, 스레드풀 조정)<br>
+    <details>
+      <summary>2023.12 ~ xxxx.xx | KL 차세대 ERP 구축 / 인프라 / 어플리케이션 아키텍쳐 및 DevOps</summary>
+      - 개발 아키텍쳐 구성 및 개발 환경 관리<br>
+      - SMS 공통 API 및 Spring Batch 기반 우편번호 일변동 반영 배치 개발<br>
+      - gitlab-runner 및 Jenkins 기반 CI/CD 파이프라인 구축<br>
+      - ITSM 연동 CI/CD 관리 API 개발<br>
+      - 미들웨어 관제 및 튜닝 (JVM 옵션 및 커넥션풀, 스레드풀 조정)<br>
+    </details>
   </p>
   <p>
-    2025.01 ~ xxxx.xx | 프로젝트 AM<br>
-    - 프론트엔드 구성 및 개발<br>
-    - Docker 기반 Gitlab, Jenkins, Nexus CI/CD 구성<br>
+    <details>
+      <summary>2025.01 ~ xxxx.xx | 프로젝트 AM</summary>
+      - 프론트엔드 구성 및 개발<br>
+      - Docker 기반 Gitlab, Jenkins, Nexus CI/CD 구성<br>
+    </details>
   </p>
   <hr>
 </p> 
