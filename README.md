@@ -40,7 +40,7 @@
   </p>
   <p>
     <details>
-      <summary>2023.12 ~ xxxx.xx | KL 차세대 ERP 구축 / 인프라 / 어플리케이션 아키텍쳐 및 DevOps</summary>
+      <summary>2023.12 ~ 2025.11 | KL 차세대 ERP 구축 / 인프라 / 어플리케이션 아키텍쳐 및 DevOps</summary>
       - 개발 아키텍쳐 구성 및 개발 환경 관리<br>
       - SMS 공통 API 및 Spring Batch 기반 우편번호 일변동 반영 배치 개발<br>
       - gitlab-runner 및 Jenkins 기반 CI/CD 파이프라인 구축<br>
