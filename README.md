@@ -48,6 +48,12 @@
       - 미들웨어 관제 및 튜닝 (JVM 옵션 및 커넥션풀, 스레드풀 조정)<br>
     </details>
   </p>
+   <p>
+     2026.01 ~ xxxx.xx | HMI/KIN ITSM 확산 적용 프로젝트
+  </p>
+  <p>
+     2026.02 ~ xxxx.xx | NZ WM Portal 개선 프로젝트
+  </p>
   <p>
     <details>
       <summary>2025.01 ~ xxxx.xx | 프로젝트 AM</summary>
