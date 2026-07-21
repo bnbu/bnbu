@@ -49,10 +49,13 @@
     </details>
   </p>
    <p>
-     2026.01 ~ xxxx.xx | HMI/KIN ITSM 확산 적용 프로젝트
+     2026.01 ~ 2026.04 | HMI/KIN Servicenow ITSM 확산 적용 프로젝트
   </p>
   <p>
-     2026.02 ~ xxxx.xx | NZ WM Portal 개선 프로젝트
+     2026.02 ~ 2026.03 | NZ WM Servicenow Portal 개선 프로젝트
+  </p>
+  <p>
+     2026.04 ~ 2026.08 | GLVS Servicenow ITSM 개발/적용 프로젝트
   </p>
   <p>
     <details>
