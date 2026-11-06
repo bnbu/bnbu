@@ -57,6 +57,9 @@
   <p>
      2026.04 ~ 2026.09 | GLVS Servicenow ITSM 개발/적용 프로젝트
   </p>
+    <p>
+     2026.10 ~ | TFF Servicenow SOM 개발/운영 프로젝트
+  </p>
   <p>
     <details>
       <summary>2025.01 ~ xxxx.xx | 프로젝트 AM</summary>
